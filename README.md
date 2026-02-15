@@ -1,7 +1,6 @@
 ## **Asteroid Hazard Prediction using Machine Learning**
 
-Name: Deepak S
-
+Name: Deepak S.  
 BITS ID: 2025AA05721
 
 ## a. Problem Statement
