@@ -1,4 +1,4 @@
-**Asteroid Hazard Prediction using Machine Learning**
+## **Asteroid Hazard Prediction using Machine Learning**
 
 ## a. Problem Statement
 The goal of this project is to build a Machine Learning based classification system to predict whether an asteroid is potentially hazardous (PHA) or not, using orbital and observational features provided in the NASA asteroid dataset.  
@@ -7,7 +7,7 @@ The project implements multiple classification models, evaluates them using stan
 
 ---
 
-**b. Dataset Description**
+## **b. Dataset Description**
 **Dataset Name:** Asteroid Features for Hazardous Prediction (NASA)  
 **Source:** Kaggle (NASA dataset)  
 **Type:** Binary Classification Dataset  
@@ -40,7 +40,7 @@ Missing values were handled by dropping high-null columns and imputing required 
 
 ---
 
-**c. Models Used and Evaluation Metrics**
+## **c. Models Used and Evaluation Metrics**
 
 The following six classification models were implemented:
 
