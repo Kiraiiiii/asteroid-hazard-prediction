@@ -74,7 +74,7 @@ Each model was evaluated using the following metrics:
 
 ---
 
-## 🔍 Observations on Model Performance
+## Observations on Model Performance
 
 | ML Model Name            | Observation about model performance |
 | ------------------------ | ----------------------------------- |
