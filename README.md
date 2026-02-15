@@ -1,5 +1,8 @@
 ## **Asteroid Hazard Prediction using Machine Learning**
 
+Name: Deepak S
+BITS ID: 2025AA05721
+
 ## a. Problem Statement
 The goal of this project is to build a Machine Learning based classification system to predict whether an asteroid is potentially hazardous (PHA) or not, using orbital and observational features provided in the NASA asteroid dataset.  
 
